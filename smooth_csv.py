@@ -3,7 +3,7 @@
 '''
   A tool for smooth csv data downloaded from tensorboard.
 
-  It's originally copy from https://blog.csdn.net/charel_chen/article/details/80364841.
+  It's originally copied from https://blog.csdn.net/charel_chen/article/details/80364841.
 
   @author: Charel_CHEN, pangjc
   @file: smooth_csv.py
